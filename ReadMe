@@ -1,2 +1,2 @@
 This is a kaggle dataset which is only 100 images of non-penyakit-orthodontic dental and penyakit-orthodontic dental ct scan images. 
-https://www.kaggle.com/datasets/hasnitadita/image-dental-panoramic (dataset link)
+https://www.kaggle.com/datasets/hasnitadita/image-dental-panoramic (dataset link) upon which we included basic Convolutional Neural Network and made a model with around 90 % accuracy 
